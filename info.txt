@@ -1,0 +1,4 @@
+Продемонстрировал работу docker и docker-compose
+ с Dockerfile'ами и docker-compose.yml-файлами. Доказательств ранних
+попыток не сохранилось.
+
